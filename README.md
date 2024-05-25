@@ -23,10 +23,6 @@ I am committed to improving my skills every day and am always open to new challe
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=O-Farias&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 ## My Skills:
 
 <br>
