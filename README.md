@@ -63,6 +63,7 @@ I am committed to improving my skills every day and am always open to new challe
 <div align="center">
   <h2>🛠️ Tools</h2>
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-Test_Driven_Development-%23007EC6?style=for-the-badge&logo=testing-library&logoColor=white" alt="Test Driven Development">
 </div>
 
 <br><br>
