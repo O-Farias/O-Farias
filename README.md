@@ -67,6 +67,7 @@ What truly excites me is collaborating on projects where I can **explore new tec
   <img src="https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/-Spring_Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
 </div>
 
 <br>
