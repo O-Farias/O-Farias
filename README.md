@@ -45,9 +45,7 @@ What truly excites me is collaborating on projects where I can **explore new tec
 <div align="center">
   <h2>🚀 Front-end</h2>
   <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/-React_Native-%23000000?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
   <img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/-Expo-%23000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
   <img src="https://img.shields.io/badge/-Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
@@ -76,9 +74,13 @@ What truly excites me is collaborating on projects where I can **explore new tec
   <h2>🛠️ Tools</h2>
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-Test_Driven_Development-%23007EC6?style=for-the-badge&logo=testing-library&logoColor=white" alt="Test Driven Development">
+  <img src="https://img.shields.io/badge/-JUnit-%23FF9A00?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+  <img src="https://img.shields.io/badge/-Mockito-%2300B4CC?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito">
+  <img src="https://img.shields.io/badge/-Pytest-%230A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
   <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-GitHub_Actions-%232088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
 </div>
+
 
 <br><br>
 
