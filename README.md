@@ -38,6 +38,7 @@ What truly excites me is collaborating on projects where I can **explore new tec
   <img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/-SQL-%2300758F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 </div>
 
@@ -69,6 +70,7 @@ What truly excites me is collaborating on projects where I can **explore new tec
   <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/-Spring_Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/-ASP.NET_Core-%235C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
 </div>
 
 <br>
