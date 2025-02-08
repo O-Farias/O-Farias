@@ -71,7 +71,9 @@ What truly excites me is collaborating on projects where I can **explore new tec
   <img src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/-Spring_Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/-ASP.NET_Core-%235C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/-Entity_Framework-%235C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework">
 </div>
+
 
 <br>
 
