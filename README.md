@@ -84,9 +84,11 @@ What truly excites me is collaborating on projects where I can **explore new tec
   <img src="https://img.shields.io/badge/-JUnit-%23FF9A00?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
   <img src="https://img.shields.io/badge/-Mockito-%2300B4CC?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito">
   <img src="https://img.shields.io/badge/-Pytest-%230A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
+  <img src="https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
   <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-GitHub_Actions-%232088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
 </div>
+
 
 
 <br><br>
